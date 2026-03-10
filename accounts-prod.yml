@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: Welcome to EazyBank account ms wrt Prod API
+  contactDetails:
+    name: "Veerendra Kumar D"
+    email: "abc@gmail.com"
+  onCallSupport:
+    - (+91) 9945678234
+    - (+91) 9876543213
